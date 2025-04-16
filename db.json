@@ -1,0 +1,183 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "image": "/img/Fahrenheit451.jpg",
+      "year": 1953,
+      "page": 256,
+      "description": "Fahrenheit 451 is a dystopian novel by Ray Bradbury that explores a future society where books are banned, and 'firemen' burn any that are found. The protagonist, Guy Montag, begins to question this oppressive society and his role as a fireman, ultimately leading him to rebellion against the system.",
+      "price": 39.99
+    },
+    {
+      "id": 2,
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "/img/ToKillaMockingbird.jpg",
+      "year": 1960,
+      "page": 324,
+      "description": "A Pulitzer Prize-winning novel set in the 1930s in the fictional town of Maycomb, Alabama, To Kill a Mockingbird tells the story of young Scout Finch and her father, lawyer Atticus Finch, as they defend a black man falsely accused of raping a white woman.",
+      "price": 45.99
+    },
+    {
+      "id": 3,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "/img/1984.jpg",
+      "year": 1949,
+      "page": 328,
+      "description": "1984 is a dystopian novel that explores the life of Winston Smith in a totalitarian society controlled by the Party, which enforces constant surveillance and suppression of free thought. The book critiques the dangers of authoritarianism, mass manipulation, and surveillance.",
+      "price": 42.99
+    },
+    {
+      "id": 4,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "/img/PrideandPrejudice.jpg",
+      "year": 1813,
+      "page": 279,
+      "description": "Pride and Prejudice is a romantic novel that follows the life of Elizabeth Bennet as she navigates social expectations, family dynamics, and a relationship with the wealthy but aloof Mr. Darcy. Themes of love, class, and self-discovery are explored.",
+      "price": 39.49
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "/img/TheGreatGatsby.jpg",
+      "year": 1925,
+      "page": 180,
+      "description": "Set in the Roaring Twenties, The Great Gatsby explores themes of wealth, decadence, and the American Dream. The novel centers on the enigmatic Jay Gatsby and his obsessive love for Daisy Buchanan, showcasing the hollow pursuit of material success.",
+      "price": 34.99
+    },
+    {
+      "id": 6,
+      "title": "Moby-Dick",
+      "author": "Herman Melville",
+      "image": "/img/MobyDick.jpg",
+      "year": 1851,
+      "page": 585,
+      "description": "Moby-Dick tells the story of Ishmael, a sailor who joins the whaling ship Pequod under the obsessive captain Ahab. Ahab's quest to hunt the elusive white whale, Moby-Dick, becomes a symbol of man's struggle against nature and fate.",
+      "price": 49.99
+    },
+    {
+      "id": 7,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "image": "/img/WarandPeace.jpg",
+      "year": 1869,
+      "page": 1225,
+      "description": "War and Peace follows the lives of aristocratic families in Russia during the Napoleonic Wars. The novel explores themes of war, peace, love, and personal growth through the intertwined stories of its central characters.",
+      "price": 55.00
+    },
+    {
+      "id": 8,
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "/img/TheCatcherintheRye.jpg",
+      "year": 1951,
+      "page": 277,
+      "description": "The Catcher in the Rye follows the story of Holden Caulfield, a disenchanted teenager who narrates his experiences of growing up, dealing with loss, and trying to find his place in the world.",
+      "price": 40.50
+    },
+    {
+      "id": 9,
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "image": "/img/BraveNewWorld.jpg",
+      "year": 1932,
+      "page": 288,
+      "description": "Brave New World is a dystopian novel that portrays a future society where humans are engineered in artificial wombs and conditioned for predetermined roles. The book explores the cost of a stable society that sacrifices individual freedom and human emotions.",
+      "price": 41.75
+    },
+    {
+      "id": 10,
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "/img/TheLordoftheRings.jpg",
+      "year": 1954,
+      "page": 1178,
+      "description": "The Lord of the Rings is an epic fantasy novel that follows Frodo Baggins on his journey to destroy the One Ring and defeat the Dark Lord Sauron. The novel explores themes of friendship, heroism, and the battle between good and evil.",
+      "price": 59.99
+    },
+    {
+      "id": 11,
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "image": "/img/TheHobbit.jpg",
+      "year": 1937,
+      "page": 310,
+      "description": "The Hobbit tells the story of Bilbo Baggins, a hobbit who is reluctantly pulled into an adventure with a group of dwarves to reclaim their stolen treasure. Along the way, he encounters trolls, elves, and the dragon Smaug.",
+      "price": 29.99
+    },
+    {
+      "id": 12,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "image": "/img/TheOdyssey.jpg",
+      "year": "8th century BC",
+      "page": 500,
+      "description": "The Odyssey follows the journey of Odysseus, a Greek hero, as he attempts to return home after the Trojan War. Along the way, he faces many challenges, including the Cyclops, the Sirens, and the wrath of the gods.",
+      "price": 35.00
+    },
+    {
+      "id": 13,
+      "title": "The Divine Comedy",
+      "author": "Dante Alighieri",
+      "image": "/img/TheDivineComedy.jpg",
+      "year": 1320,
+      "page": 700,
+      "description": "The Divine Comedy is an epic poem that depicts Dante's journey through Hell, Purgatory, and Heaven. The work is a profound allegory of the soul's journey toward God, with political, philosophical, and theological undertones.",
+      "price": 42.50
+    },
+    {
+      "id": 14,
+      "title": "The Catch-22",
+      "author": "Joseph Heller",
+      "image": "/img/TheCatch22.jpg",
+      "year": 1961,
+      "page": 453,
+      "description": "Catch-22 is a satirical novel set during World War II that explores the absurdity of war, bureaucracy, and military life. The protagonist, Yossarian, faces a paradox where he's forced to keep flying dangerous missions or be deemed insane.",
+      "price": 38.99
+    },
+    {
+      "id": 15,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "image": "/img/CrimeandPunishment.jpg",
+      "year": 1866,
+      "page": 430,
+      "description": "Crime and Punishment is a psychological novel about a poor student named Raskolnikov who commits a murder and struggles with guilt, redemption, and the consequences of his actions in 19th-century St. Petersburg.",
+      "price": 44.99
+    },
+    {
+      "id": 16,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "image": "/img/ThePictureofDorianGray.jpg",
+      "year": 1890,
+      "page": 254,
+      "description": "The Picture of Dorian Gray is a novel about a young man named Dorian Gray whose portrait ages while he remains youthful, reflecting his corrupted soul and descent into debauchery and moral decay.",
+      "price": 36.99
+    },
+    {
+      "id": 17,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "image": "/img/DonQuixote.jpg",
+      "year": 1605,
+      "page": 1050,
+      "description": "Don Quixote tells the story of a man who, after reading too many chivalric romances, sets out to revive knighthood and becomes a deluded, whimsical hero, embarking on adventures with his loyal squire, Sancho Panza.",
+      "price": 49.99
+    },
+    {
+      "id": 18,
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "image": "/img/TheBrothersKaramazov.jpg",
+      "year": 1880,
+      "page": 796,
+      "description": "The Brothers Karamazov explores the moral, philosophical, and theological questions surrounding faith, free will, and the nature of good and evil."
+    }
+  ]
+}
